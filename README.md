@@ -48,26 +48,43 @@
 + Description: Phần mô tả chi tiết thêm cho template.
 
 Bước 3: Sau khi đã tạo một template mới, cần thiết lập các Datastreams (các chân Virtual Pin) 
- 
+ ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f3e1b0c3-c97b-4dba-8b21-193193ffa2bf)
+
+ 
+ ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/7adf084d-f637-42e9-aa2f-d0a9562521cf)
+
 Chọn New Datastream -> Virtual Pin
 
 
 
 
 Bước 6: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào “Web Dashboard”, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/dd740114-28c4-461a-b386-6277a3740a8c)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/5b238417-17f9-4fb4-9011-4284bb671b40)
+
 
 + Để bật tắt thiết bị, chúng ta chọn hộp lệnh “Switch” trong nhóm lệnh Control rồi kéo thả vào giao diện điều khiển hoặc click chuột trái 2 lần vào hộp lệnh.
-+ Di chuyển con chuột tới hộp lệnh đã đặt trong phần giao diện và ấn vào biểu tượng bánh răng, khi đó sẽ hiện lên bảng “Switch Settings” dùng để thiết lập nút lệnh này với các Datastreams Virtual Pin đã tạo ở bước trước.
++ Di chuyển con chuột tới hộp lệnh đã đặt trong phần giao diện và ấn vào biểu tượng bánh răng, khi đó sẽ hiện lên bảng “Switch Settings” dùng để thiết lập nút lệnh này với các Datastreams Virtual Pin đã tạo ở bước trước.![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bb6e79bd-177d-4e1f-bd3a-0f67fc3cc555)
+
 + Tittle: Đặt tên tùy ý cho nút lệnh
 + Datastream: Chọn Datastream muốn điều khiển và ấn save
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f86f2600-f099-41dd-b9c7-a8611a6b7fb9)
 
 Bước 7: Quay về thẻ Home và nhấn “Add first device” để đặt tên cho thiết bị điều khiển và hoàn tất thiết lập.
 
- 
+ ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/ca90f2de-159a-433e-b781-7003bdaa3542)
+
 ## 2. Thiết lập Blynk trên điện thoại:
 IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Blynk IoT”
 - Sau khi tải app, chúng ta đăng nhập vào tài khoản đã tạo ở trang web, khi đó tên thiết bị đã tạo trên web sẽ hiển thị sẵn trên màn hình
 - Ấn vào tên thiết bị để vào giao diện điều khiển, sau đó chọn vào biểu tượng cờ lê như hình
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/0e3bec24-8256-4d54-ac31-7ac54e77eb7c)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/8f9e8424-6cb7-419f-b2c1-e77f9a78ee90)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/90be3773-2c38-49ed-873d-77e9ef5f7c62)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/b87a0d3d-45ac-4cb3-aec8-474ad6bb883f)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/efa0ed59-2441-48b6-b963-b76f0b8538b8)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/296bd0d5-a690-47c8-906a-ad580c5c8758)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/21b996d4-2cf9-49ed-8366-f940bce88cea)
 
 -	Chọn Button (Công tắc) để điều khiển đèn tắt mở và có thể kéo thả đến vị trí tùy ý
 
