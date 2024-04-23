@@ -20,34 +20,39 @@
 ## II. Hướng dẫn tạo tài khoản Blynk
 ### 1. Tạo tài khoản trên trang web
 
-**Bước 1**: PC/ Laptop: Truy cập link Blynk: <https://blynk.io/> 
+#### **Bước 1**: PC/ Laptop: Truy cập link Blynk: <https://blynk.io/> 
 
-**Bước 2**: Bấm vào nút 'LOGIN'
+#### **Bước 2**: Bấm vào nút 'LOGIN'
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/c41eea17-b07d-42d1-b303-017ccd42c7b3)
 
-**Bước 3**: Chọn Create new acccount 
+#### **Bước 3**: Chọn Create new acccount 
 -	Tiến hành nhập Email và mật khẩu để tạo tài khoản mới ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/2ca5597e-1ec6-4327-b934-72867b796e6e)
 
 ## III.	  Hướng dẫn sử dụng Blynk – gate để bật tắt đèn Led
 ### 1.	Setup trên Blynk
 
-**Bước 1**: Tại giao diện chính của Blynk, chọn “For Makers”
+#### **Bước 1**: Tại giao diện chính của Blynk, chọn “For Makers”
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/28bdf82e-1111-42fc-ae09-bf5a5547dba1)
 
-**Bước 2**: Thiết lập một template mới dùng để điều khiển dự án đèn Led tắt bật theo ý muốn, ấn chọn “New template”
+#### **Bước 2**: Thiết lập một template mới dùng để điều khiển dự án đèn Led tắt bật theo ý muốn, ấn chọn “New template”
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/793762ee-da51-447b-8f99-b2475433616a)
 
+<img align="right" height="300" width="460" src="https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f03f84b7-0b3a-42ca-922a-3c21b1469395">          
 
-**Cách tạo một template mới**  
-+ Name: Đặt tên bất kì cho template.
-+ Hardware: Chọn mặc định ESP8266.
+#### **Cách tạo một template mới**
+* Name: Đặt tên bất kì cho template.
+* Hardware: Chọn mặc định ESP8266.
+* Connection Type: Wifi.
+* Description: Phần mô tả chi tiết thêm cho template.
 
-  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f03f84b7-0b3a-42ca-922a-3c21b1469395)
+\
+\
+\
+\
+\
+\
 
-+ Connection Type: Wifi.
-+ Description: Phần mô tả chi tiết thêm cho template.
-
-Bước 3: Sau khi đã tạo một template mới, cần thiết lập các Datastreams (các chân Virtual Pin) 
+#### Bước 3: Sau khi đã tạo một template mới, cần thiết lập các Datastreams (các chân Virtual Pin) 
  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f3e1b0c3-c97b-4dba-8b21-193193ffa2bf)
 
  
@@ -58,13 +63,14 @@ Chọn New Datastream -> Virtual Pin
 
 
 
-Bước 6: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào “Web Dashboard”, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
+#### **Bước 4**: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào “Web Dashboard”, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/dd740114-28c4-461a-b386-6277a3740a8c)
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/5b238417-17f9-4fb4-9011-4284bb671b40)
 
-
+<img align="right" src="https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bb6e79bd-177d-4e1f-bd3a-0f67fc3cc555">
 + Để bật tắt thiết bị, chúng ta chọn hộp lệnh “Switch” trong nhóm lệnh Control rồi kéo thả vào giao diện điều khiển hoặc click chuột trái 2 lần vào hộp lệnh.
-+ Di chuyển con chuột tới hộp lệnh đã đặt trong phần giao diện và ấn vào biểu tượng bánh răng, khi đó sẽ hiện lên bảng “Switch Settings” dùng để thiết lập nút lệnh này với các Datastreams Virtual Pin đã tạo ở bước trước.![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bb6e79bd-177d-4e1f-bd3a-0f67fc3cc555)
++ Di chuyển con chuột tới hộp lệnh đã đặt trong phần giao diện và ấn vào biểu tượng bánh răng, khi đó sẽ hiện lên bảng “Switch Settings” dùng để thiết lập nút lệnh này với các Datastreams Virtual Pin đã tạo ở bước trước.
+
 
 + Tittle: Đặt tên tùy ý cho nút lệnh
 + Datastream: Chọn Datastream muốn điều khiển và ấn save
