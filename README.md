@@ -42,7 +42,7 @@
 + Name: Đặt tên bất kì cho template.
 + Hardware: Chọn mặc định ESP8266.
 
-                                                                 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f03f84b7-0b3a-42ca-922a-3c21b1469395)
+  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f03f84b7-0b3a-42ca-922a-3c21b1469395)
 
 + Connection Type: Wifi.
 + Description: Phần mô tả chi tiết thêm cho template.
