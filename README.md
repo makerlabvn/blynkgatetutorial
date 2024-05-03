@@ -116,8 +116,8 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
   ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/4d7d88fd-636b-4bd1-8f44-67c43f5ebb6c)
    + WiFi (2.4G) SSID:
    + Password:
-   + Auth token: 
-Sau khi đã khai báo như ảnh thì ấn cập nhật, máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
+   + Auth token: Paste 'Blynk_Auth_Token' đã copy trước đó vào
+- Sau khi đã khai báo như ảnh thì ấn 'Apply', máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
 - Sau khi kết nối thành công, Blynk – gate sẽ tự động ngắt wifi trên máy tính. Vào lại wifi khác và truy cập Blynk web để tiến hành điều khiển
 
    
