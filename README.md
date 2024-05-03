@@ -55,12 +55,15 @@
 #### Bước 3: Sau khi đã tạo một template mới, cần thiết lập các Datastreams (các chân Virtual Pin) 
  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f3e1b0c3-c97b-4dba-8b21-193193ffa2bf)
 
- 
- ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/7adf084d-f637-42e9-aa2f-d0a9562521cf)
-
 Chọn New Datastream -> Virtual Pin
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/90384950-513b-409e-b34a-538b2af2fc1a)
 
+Khai báo Datastrean Virtual Pin tương tự như ảnh cho chân P1 và làm tương tự với các chân kế tiếp (P2, P4)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/c0c53dd1-01d2-439c-b03c-30ff5d4e486f)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/c980fcd9-be5f-4b02-acad-cd0e18fa8e33)
 
+Riêng chân P3 sẽ khai báo giống ảnh
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/7b6f0d7c-ead9-4512-99f0-240da37bdc12)
 
 
 #### **Bước 4**: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào “Web Dashboard”, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
