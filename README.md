@@ -7,7 +7,8 @@
 - Bằng cách sử dụng phần cứng **Blynk Gate** người dùng không cần phải code mà chỉ cần thao tác tùy chỉnh cơ bàn là đã có thể tạo ra 1 thiết bị điều khiển từ xa thông qua intermet.
 
 ### 2. Sơ đồ mạch Blynk-gate
-![matduoi](extras/Mat_sau_blynkgate.png) Mặt dưới
+![matduoi](extras/Mat_sau_blynkgate.png) Mặt dưới  
+
 ![mattren](extras/Mat_truoc_blynkgate.png) Mặt trên
 
 ### 3. Chức năng các chân trên mạch
@@ -123,5 +124,6 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
 - Sau khi đã khai báo như ảnh thì ấn 'Apply', máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
 - Sau khi kết nối thành công, Blynk – gate sẽ tự động ngắt wifi trên máy tính. Vào lại wifi khác và truy cập Blynk web để tiến hành điều khiển
 
+![alt text](20.png) ![alt text](<Group 347.png>) ![alt text](<Group 348.png>) ![alt text](<Group 349.png>) ![alt text](<Group 350.png>) ![alt text](<Group 351.png>) ![alt text](<Group 352.png>) ![alt text](<Group 353.png>) ![alt text](<Group 354.png>) ![alt text](<Group 355.png>) ![alt text](<Group 356.png>) ![alt text](<Group 357.png>) ![alt text](<Group 358.png>) ![alt text](<Group 360.png>) ![alt text](<Group 361.png>) ![alt text](<Group 362.png>) ![alt text](<Group 363.png>) ![alt text](<Group 365.png>) ![alt text](<Group 366.png>)
    
 
