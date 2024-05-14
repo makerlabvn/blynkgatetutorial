@@ -166,7 +166,9 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
       - Đèn tín hiệu chợp tắt liên tục: trạng thái cấu hình thiết bị
       - Đèn tín hiệu chớp tắt chậm: trạng thái đã được cấu hình
 
-     ** Để khôi phục cài đặt ban đầu hoặc muốn thay đổi wifi kết nối, nhấn giữ nút SET trong 10s cho tới khi thấy đèn chớp tắt liên tục, ngắt nguồn và kết nối nguồn lại. 
+     ** Để khôi phục cài đặt ban đầu hoặc muốn thay đổi wifi kết nối,  
+    nhấn giữ nút SET trong 10s cho tới khi thấy đèn chớp tắt liên tục,  
+    ngắt nguồn và kết nối nguồn lại. 
 - Truy cập vào Wifi BlynkGate
 
 Bước 1: Truy cập vào trình duyệt Web, nhập địa chỉ "192.168.4.1" 
