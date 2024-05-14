@@ -174,11 +174,11 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
   
 ![alt text](extras/wifi.png)  
 
-Bước 1: Truy cập vào trình duyệt Web, nhập địa chỉ "192.168.4.1" 
-Bước 2:  Điền tên wifi và pass wifi
-Bước 3: Điền **Auth Token** đã lấy tại mục 4.1 vào ô `Auth token`
-Bước 4: Tại ô **Virtual pin for**... điền theo hình bên dưới
-Bước 5: Nhấn Apply để hoàn thành quá trình cài đặt. 
+Bước 1: Truy cập vào trình duyệt Web, nhập địa chỉ "192.168.4.1"   
+Bước 2:  Điền tên wifi và pass wifi  
+Bước 3: Điền **Auth Token** đã lấy tại mục 4.1 vào ô `Auth token`  
+Bước 4: Tại ô **Virtual pin for**... điền theo hình bên dưới  
+Bước 5: Nhấn Apply để hoàn thành quá trình cài đặt.   
   
 ![alt text](extras/HD0031.png)  
   
