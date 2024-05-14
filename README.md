@@ -170,15 +170,21 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
      ** Để khôi phục cài đặt ban đầu hoặc muốn thay đổi wifi kết nối,  
     nhấn giữ nút SET trong 10s cho tới khi thấy đèn chớp tắt liên tục,  
     ngắt nguồn và kết nối nguồn lại. 
-- Truy cập vào Wifi BlynkGate
+- Truy cập vào Wifi BlynkGate   
+  
+![alt text](extras/wifi.png)  
 
 Bước 1: Truy cập vào trình duyệt Web, nhập địa chỉ "192.168.4.1" 
 Bước 2:  Điền tên wifi và pass wifi
 Bước 3: Điền **Auth Token** đã lấy tại mục 4.1 vào ô `Auth token`
 Bước 4: Tại ô **Virtual pin for**... điền theo hình bên dưới
-Bước 5: Nhấn Apply để hoàn thành quá trình cài đặt. (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
+Bước 5: Nhấn Apply để hoàn thành quá trình cài đặt. 
   
 ![alt text](extras/HD0031.png)  
+  
+- Khi cài đặt thành công màn hình sẽ hiển thị  
+  
+![alt text](extras/setup_done.png)  
   
 > Sau khi kết nối thành công thì sử dụng điện thoại để bật tắt đèn xem có được chưa nhé.^^
 
