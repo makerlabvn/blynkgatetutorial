@@ -131,34 +131,35 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
   
   - chọn **Button**
 
-![image](extras/HD0024.png)
+![image](extras/HD0024.png)  
 
-- Nhấn vào biểu tượng **OFF** trên màn hình
-![image](extras/HD0025.png) 
+- Nhấn vào biểu tượng **OFF** trên màn hình  
+![image](extras/HD0025.png)  
   
  - Chọn Datastream là **P1**, và Mode là **Switch**. 
-  - Nhấn dấu x bên trái màn hình để thoát
-![alt text](extras/HD0026.png)
+  - Nhấn dấu x bên trái màn hình để thoát  
+![alt text](extras/HD0026.png)  
   
 - Nhấn dấu mũi tên   :arrow_left: bên góc trái để trở về giao diện điều khiển  
+  
+![alt text](extras/HD0027.png)  
 
-![alt text](extras/HD0027.png)
-
- 
+  
 ## 4.	 Hướng dẫn cài đặt BlynkGate
 ### 4.1. Cách lấy Auth Token
 - Truy cập lại vào web blynk, nhấn vào biểu tượng **Devices**, sau đó nhấn vào **BlynkGate**
   
 
-![alt text](extras/HD0028.png)
+![alt text](extras/HD0028.png)  
     
 - Nhấn vào biểu tượng **Developer tools**  
-
-![alt text](extras/HD0029.png)
+  
+![alt text](extras/HD0029.png)  
   
 - Nhấp chuột vào mục được khoanh đỏ để coppy **Auth token** sau đó pass vào mục tin nhắn hoặc lưu trữ vào file .txt
-
-![alt text](extras/HD0030.png)
+  
+![alt text](extras/HD0030.png)  
+  
 ### 4.2. Cấu hình BlynkGate
 ![alt text](extras/Mat_truoc_Edu_I2C_Wifi_Blynk_1.png)
 
@@ -176,8 +177,8 @@ Bước 2:  Điền tên wifi và pass wifi
 Bước 3: Điền **Auth Token** đã lấy tại mục 4.1 vào ô `Auth token`
 Bước 4: Tại ô **Virtual pin for**... điền theo hình bên dưới
 Bước 5: Nhấn Apply để hoàn thành quá trình cài đặt. (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
-
-![alt text](extras/HD0031.png)
+  
+![alt text](extras/HD0031.png)  
   
 > Sau khi kết nối thành công thì sử dụng điện thoại để bật tắt đèn xem có được chưa nhé.^^
 
