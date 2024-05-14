@@ -173,7 +173,7 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
 
 Bước 1: Truy cập vào trình duyệt Web, nhập địa chỉ "192.168.4.1" 
 Bước 2:  Điền tên wifi và pass wifi
-Bước 3: Điền **Auth Token** đã lấy trước đó vào ô `Auth token`
+Bước 3: Điền **Auth Token** đã lấy tại mục 4.1 vào ô `Auth token`
 Bước 4: Tại ô **Virtual pin for**... điền theo hình bên dưới
 Bước 5: Nhấn Apply để hoàn thành quá trình cài đặt. (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
 
